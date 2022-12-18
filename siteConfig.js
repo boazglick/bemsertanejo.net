@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://alankaler.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://bemsertanejo.net", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "alankaler", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "bemsertanejo", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "alankaler", // This allows an alternative site description for meta data for pages.
+    "bemsertanejo", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "alankaler", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "bemsertanejo", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "alankaler",
+    title: "bemsertanejo",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://alankaler.co.il/",
+        url: "https://bemsertanejo.net/",
       },
       {
         label: "יצירת קשר",
-        url: "https://alankaler.co.il/contact",
+        url: "https://bemsertanejo.net/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://alankaler.co.il/",
+        url: "https://bemsertanejo.net/",
       },
       {
         label: "Sitemap",
-        url: "https://alankaler.co.il/sitemap.xml",
+        url: "https://bemsertanejo.net/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://alankaler.co.il/contact",
+        url: "https://bemsertanejo.net/contact",
       },
                  
        {
@@ -75,9 +75,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "alankaler",
+    title: "bemsertanejo",
     description:
-      "alankaler",
+      "bemsertanejo",
   },
   twitterCard: {
     title: "",
@@ -93,9 +93,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "alankaler",
+  siteTitle: "bemsertanejo",
   siteDescription:
-    "alankaler",
+    "bemsertanejo",
   language: "he",
   logoUrl: "",
   iconUrl: "",
